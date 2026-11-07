@@ -1,0 +1,20 @@
+{
+    "title": "Gesture Tutorial",
+    "id": "org.webosports.app.tutorial",
+    "version": "1.0.0",
+    "vendor": "webOS Ports",
+    "vendor_url": "https://github.com/webOS-ports/org.webosports.app.tutorial",
+    "type": "qml",
+    "main": "qml/main.qml",
+    "noWindow": true,
+    "useWebEngine": false,
+    "useLuneOSStyle": true,
+    "icon": "icon.png",
+    "splashicon": "icon-256x256.png",
+    "uiRevision": "2",
+    "requiredPermissions": [ "application.launcher", "application.operation",
+                             "systemsettings.query", "systemsettings.management",
+                             "activity.operation", "notification.operation",
+                             "tweaks-service.operation" ],
+    "keywords": [ "Tutorial", "Gestures", "Help", "Card View", "Back" ]
+}
